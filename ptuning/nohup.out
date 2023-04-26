@@ -1,0 +1,35 @@
+[I 06:15:36.562 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 06:15:36.562 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[W 06:15:36.813 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 06:15:36.813 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 06:15:36.818 NotebookApp] Serving notebooks from local directory: /mnt/task_runtime/ChatGLM-6B/ptuning
+[I 06:15:36.818 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 06:15:36.819 NotebookApp] http://bolt-tq7jaau865-k7tfx9p8rz:30779/
+[I 06:15:36.819 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 06:19:33.765 NotebookApp] 302 GET / (::1) 0.500000ms
+[I 06:19:49.910 NotebookApp] New terminal with automatic name: 1
+[I 03:04:39.318 NotebookApp] 302 GET / (::1) 1.110000ms
+[I 03:46:16.953 NotebookApp] 302 GET / (::1) 0.510000ms
+[I 03:57:51.790 NotebookApp] New terminal with automatic name: 2
+[I 03:58:05.666 NotebookApp] EOF on FD 12; stopping reading
+[I 03:58:05.767 NotebookApp] Terminal 2 closed
+[I 04:06:41.996 NotebookApp] 302 GET / (::1) 0.410000ms
+[I 04:08:28.046 NotebookApp] EOF on FD 17; stopping reading
+[I 04:08:28.147 NotebookApp] Terminal 1 closed
+[I 04:08:52.743 NotebookApp] New terminal with automatic name: 1
+[I 02:36:49.887 NotebookApp] 302 GET / (::1) 0.730000ms
+[I 06:59:16.589 NotebookApp] 302 GET / (::1) 0.770000ms
+[W 07:24:42.484 NotebookApp] WebSocket ping timeout after 119799 ms.
